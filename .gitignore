@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+NPCs Have Feelings/[Ll]ibrary/
+NPCs Have Feelings/[Tt]emp/
+NPCs Have Feelings/[Oo]bj/
+NPCs Have Feelings/[Bb]uild/
+NPCs Have Feelings/[Bb]uilds/
+NPCs Have Feelings/[Ll]ogs/
+NPCs Have Feelings/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
